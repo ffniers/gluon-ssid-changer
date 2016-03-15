@@ -17,5 +17,5 @@ This skript is tested with Gluon 2015.2.1 and the current master (upcoming 2016.
 
 * Forked from
 
-https://github.com/valcryst/gluon-ssid-changer
-https://github.com/ffac/gluon-ssid-changer
+https://github.com/valcryst/gluon-ssid-changer<br>
+https://github.com/ffac/gluon-ssid-changer<br>
